@@ -1,0 +1,86 @@
+header {
+  text-align: center;
+  background: rgb(55, 140, 155);
+  margin: 0px;
+  padding: 0px;
+  color: powderblue;
+}
+
+
+
+body {
+  text-align: center;
+  /* list-style-position: inside; */
+}
+
+h1 {
+  font-family: cursive;
+}
+
+header p {
+  font-family: "Courier New", Courier, monospace;
+}
+
+html {
+  background-color: rgb(55, 140, 155);
+}
+
+main {
+  background-color: powderblue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.section1 img {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  border-radius: 13%;
+}
+
+.section3 img {
+  width: 50%;
+  border-radius: 5%;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin-left: 40%;
+  margin-right: 43%;
+}
+
+.section2 {
+  /* border: black solid 1px; */
+  margin: 0px 30%;
+}
+
+hr {
+  width: 50%;
+  /* height: 2px; */
+  color: rgb(14, 9, 8);
+  background-color: rgb(14, 9, 8);
+  border-radius: 30%;
+  border: 2px solid rgb(14, 9, 8);
+}
+
+ol {
+  margin: 0px 50% 0 43%;
+}
+
+a:link {
+  color: rgb(57, 33, 216);
+}
+a:visited {
+  color: rgb(139, 98, 167);
+}
+a:hover {
+  color: rgb(47, 77, 69);
+}
+a:active {
+  color: rgb(233, 158, 45);
+}
